@@ -1,0 +1,95 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+#drums{
+    text-align: center;
+    margin-right: 60px;
+}
+body{
+    text-align: center;
+    
+}
+
+footer {
+    color: black;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 200px;
+    font-size: 50px;
+  }
+  h1{
+    color: black;
+    font-family: sans-serif;
+    text-align: center;
+    padding-bottom: 200px;
+    font-size: 5rem;
+  }
+  .w{
+    background-image: url("images/whitecircle.png");
+    
+  }
+  .a{
+    background-image: url("images/whitecircle.png");
+  }
+  .s{
+    background-image: url("images/whitecircle.png");
+  }
+  .d{
+    background-image: url("images/whitecircle.png");
+  }
+  .j{
+    background-image: url("images/whitecircle.png");
+    
+  }
+  .k{
+    background-image: url("images/whitecircle.png");
+  }
+  .l{
+    background-image: url("images/whitecircle.png");
+  }
+  .w{
+    background-image: url("images/whitecircle.png");
+  }
+  .set {
+    margin: 10% auto;
+  }
+  
+  .pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+  
+  .red {
+    color: rgb(255, 8, 132);
+  }
+  
+  .drum {
+    outline: none;
+    border: 10px solid black;
+    font-size: 3rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #be286c;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
+  
+  a{
+    color: #be286c;
+  }
+#r1{
+  display: flex;
+}
+#img1{
+  height: 500px;
+  width: 500px;
+}
